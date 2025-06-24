@@ -1,0 +1,5 @@
+Modelo     | Timepo  | Calidad
+OpenAI 4.1 | 0:19.27 | 8
+phi3       | 3:57.57 | 4
+Mistral    | 3:34.53 | 1 (Iba muy bien, pero empeza a romperse si anteriormente respondio con mucho texto. No entiende bien los roles Assistant y User)
+nous-hermes| ------- | 0 (No entiende español, no es capaz de seguir las tareas)
